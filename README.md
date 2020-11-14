@@ -13,7 +13,8 @@ viccjiang/weblayout_1106_hw04
 * 如何與後端協作網頁版型
 * 藉由 Gulp 撰寫樣板語言 (template language)
 
-本週常見遇到的問題 (本週slack筆記)> 
+本週常見遇到的問題 (本週slack筆記)
+
 **Q：GitHub Pages沒有master branch 選項，只有main ?** 
 > GitHub計畫從10月1日起，所有新建的儲存庫都會以main為預設branch命名，不再使用master，這項變更並不會影響現有儲存庫的名稱，開發人員也可以選擇不要變更 [資料參考來源](https://www.ithome.com.tw/news/140094)
 > 
