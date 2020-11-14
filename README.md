@@ -17,11 +17,13 @@ viccjiang/weblayout_1106_hw04
 **Q：GitHub Pages沒有master branch 選項，只有main ?** 
 > GitHub計畫從10月1日起，所有新建的儲存庫都會以main為預設branch命名，不再使用master，這項變更並不會影響現有儲存庫的名稱，開發人員也可以選擇不要變更 [資料參考來源](https://www.ithome.com.tw/news/140094)
 > 
-> 結論：目前的main = 以前的master 
+> 結論：目前的main = 以前的master
+> 
 **Q：sudo npm i gulp@4 -g 安裝之後出現 location version： unknown 這是正常的嗎 ?**
 > location version： unknown 是因為還沒在專案資料夾安裝本地的gulp。但是global的已經裝好囉。
 > 
 > 結論：正常的！
+> 
 **Q：使用gulp的目的 ?**
 
 > 直播影片老師有提到，web-layout-training-gulp-master 這整個資料夾，是老師為了讓大家體驗template模板的快速開發，請ray助教寫好gulp資料夾。
