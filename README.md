@@ -75,6 +75,7 @@ Layout 觀念設計
     * 丟上gihubpages是丟上dist資料夾
     * app>assets>style     scss
     * dist>assets>style>all.css
+
 SCSS 結構參考
 一個頁面一個scss
 ```
