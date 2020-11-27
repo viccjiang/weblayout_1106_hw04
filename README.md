@@ -1,5 +1,5 @@
 # 2020秋季六角學院切版直播班Week4
-viccjiang/weblayout_1106_hw04
+第四週 - RWD 形象官網
 
 * [頁首頁尾layout](https://viccjiang.github.io/weblayout_1106_hw04/index.html)
 * [頁首頁尾layout](https://viccjiang.github.io/weblayout_1106_hw04/layout.html)
